@@ -6921,5 +6921,11 @@
     "author": "lusob",
     "description": "A ChatGPT powered chatbot specifically focused on question answering over your Obsidian vault notes.",
     "repo": "lusob/obsidian-brain"
+  },
+    "id": "Clock-plugin",
+    "name": "Clock Plugin",
+    "author": "HiroMike",
+    "description": "A simple clock plugin for Obsidian.",
+    "repo": "ms3056/clock-for-obsidian"
   }
 ]
